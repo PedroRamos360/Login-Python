@@ -1,0 +1,6 @@
+user:(Pedro) password:(!@#$%) 
+user:(Jorge) password:(214$14$1%^&) 
+user:(Cla�dia) password:(0)54$81) 
+user:(Roberto) password:(31386�9(9(6�8*}54${5))&) 
+user:(Carlos) password:(214$14$153#10)0)1) 
+user:(Anderson Silva) password:(14$459(0)6�4$0)92@[1) 
